@@ -1,37 +1,3 @@
-! --- Generic filters (domains starting with)
-!
-||ads.^
-||ads1.^
-||ads2.^
-||ads3.^
-||ads4.^
-||ads5.^
-||ads6.^
-||ads7.^
-||ads8.^
-||ads9.^
-||adserv.^
-||adserve.^
-||adserver.^
-||adserver1.^
-||advertise.^
-||advertising.^
-||affiliate.^
-||affiliates.^
-||analytics.^
-||audience.^
-||banner.^
-||banners.^
-||beacon.^
-||beacons.^
-||click.^
-||pixel.^
-||tag.^
-||tags.^
-||track.^
-||tracker.^
-||tracking.^
-!
 ! --- Top 200 Advertising/analytics/tag management/tracking
 !
 ||2mdn.net
